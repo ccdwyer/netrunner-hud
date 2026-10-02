@@ -1,0 +1,16 @@
+{
+  "name": "netrunner-hud",
+  "version": "0.1.0",
+  "description": "A cyberpunk dashboard pane for your session: braille context gauge, live token oscilloscope, tool-call waterfall and git/test/job/cost widgets, animated at 30fps",
+  "types": "./types/index.d.ts",
+  "license": "MIT",
+  "homepage": "https://github.com/ccdwyer/netrunner-hud",
+  "supportUrl": "https://github.com/ccdwyer/netrunner-hud/issues",
+  "documentationUrl": "https://github.com/ccdwyer/netrunner-hud#readme",
+  "privacyPolicyUrl": "https://github.com/ccdwyer/netrunner-hud/blob/main/PRIVACY.md",
+  "author": {
+    "name": "Chris Dwyer",
+    "url": "https://github.com/ccdwyer"
+  },
+  "repository": "https://github.com/ccdwyer/netrunner-hud"
+}
