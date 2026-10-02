@@ -1,5 +1,9 @@
 # NETRUNNER//HUD
 
+![Netrunner HUD demo](media/demo.gif)
+
+[Watch the MP4](https://github.com/ccdwyer/claude-mods/raw/main/media/netrunner-hud.mp4) · [Screenshot](media/01-hud-open.png) · [Screenshot](media/02-hud-live.png)
+
 A cyberpunk dashboard for your Claude Code session, drawn in the terminal and animated at 30 fps.
 
 `/hud` opens a pane with:
